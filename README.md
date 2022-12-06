@@ -1,7 +1,7 @@
 - 👋 Name is Sammy Wanjohi Kiboi
 - 👀 Front End Web Developer
 - 🌱 I’m currently learning React
-- 📫 Reach me @ sammykiboi4@gmail.com
+- 📫 Reach me @ sammy313.sw@gmail.com
 
 <!---
 kiboiWanjohi/kiboiWanjohi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
