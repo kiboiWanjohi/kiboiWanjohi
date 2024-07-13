@@ -23,6 +23,13 @@
     <img src="https://skillicons.dev/icons?i=nodejs,python,js,cpp,express,firebase,c,nextjs,latex,mysql,neovim" /><br>
 </div>
 
+<div align="center">
+
+[![kiboiWanjohi's's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiboiWanjohi&theme=dark&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiboiWanjohi&layout=compact)](https://github.com/kiboiWanjohi/github-readme-stats&layout=compact)
+    
+</div>
 
 </div>
 
